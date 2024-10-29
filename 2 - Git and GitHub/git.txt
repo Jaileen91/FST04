@@ -1,0 +1,8 @@
+git config --global user.name "username"
+git config --gobal user.email "email"
+
+
+// Initialize into a Git Repository
+git Init
+
+// Git 
